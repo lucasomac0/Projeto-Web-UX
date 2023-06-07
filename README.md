@@ -20,5 +20,7 @@ Navegador web atualizado (Google Chrome, Mozilla Firefox, etc.).
 Conhecimento básico de HTML, CSS e JavaScript.
 
 **Colaboradores:** Lucas Oliveira Macedo, Gabriel Doin, Lucas Gabriel Magalhães da Silva, Ariane Ferreira de Andrade e Nicolas Robert de Oliveira Borges.
+
 **Orientador:** Claudinei Dias
+
 **Disciplina:** Ferramentas Web UX
