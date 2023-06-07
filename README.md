@@ -12,13 +12,13 @@ O site terá as seguintes funcionalidades principais:
 **Recursos Interativos:** Serão implementados recursos interativos, como menus de navegação, botões, formulários de contato, carrosséis, entre outros.
 **Integração de Mídia:** O site poderá incluir imagens, vídeos e outros elementos de mídia para enriquecer o conteúdo.
 
-**### Requisitos de Desenvolvimento**
+### **Requisitos de Desenvolvimento**
 Para desenvolver o projeto, você precisará das seguintes ferramentas:
 
 Um editor de código de sua preferência, como Visual Studio Code, Sublime Text, Atom, etc.
 Navegador web atualizado (Google Chrome, Mozilla Firefox, etc.).
 Conhecimento básico de HTML, CSS e JavaScript.
 
-Colaboradores: Lucas Oliveira Macedo, Gabriel Doin, Lucas Gabriel Magalhães da Silva, Ariane Ferreira de Andrade e Nicolas Robert de Oliveira Borges.
-Orientador: Claudinei Dias
-Disciplina: Ferramentas Web UX
+**Colaboradores:** Lucas Oliveira Macedo, Gabriel Doin, Lucas Gabriel Magalhães da Silva, Ariane Ferreira de Andrade e Nicolas Robert de Oliveira Borges.
+**Orientador:** Claudinei Dias
+**Disciplina:** Ferramentas Web UX
