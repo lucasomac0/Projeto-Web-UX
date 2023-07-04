@@ -7,7 +7,7 @@ body {
     min-height: 100%;
     margin: 0;
     font-family: 'Montserrat';font-size: 22px;
-    background: linear-gradient(to right, #891D2E, #B2152C);
+    background: #E5EAFA;
 }
 
 footer {
@@ -287,4 +287,21 @@ footer {
 
 #titulo-investimento{
     font-size: 50px;
+}
+
+.background-shapes {
+    flex: 1;
+    position: absolute;
+    top: 1154px;
+    left: 0;
+    width: 100%;
+    height: 1286px; /* Adjust the height to extend the cyan polygon down */
+}
+
+.background-shapes svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
