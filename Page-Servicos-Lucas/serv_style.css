@@ -52,7 +52,11 @@ body{
 .subheader{
     width: 100vw;
     height: 51.33vh;
+<<<<<<< Updated upstream
     background-image:url(/Page-Servicos-Lucas/imgs/banco.jpg);
+=======
+    background-image:url(../Page-Servicos-Lucas/imgs/banco.jpg);
+>>>>>>> Stashed changes
     background-size: 100% 90vh;
     background-repeat: no-repeat;
     background-position: center;
@@ -468,7 +472,11 @@ footer {
 #foto1{
     width: 530px;
     height: 530px;
+<<<<<<< Updated upstream
     background-image: url(/Page-Servicos-Lucas/imgs/phoneman.jpg);
+=======
+    background-image: url(../Page-Servicos-Lucas/imgs/phoneman.jpg);
+>>>>>>> Stashed changes
     background-size: contain;
     border-radius: 20px;
     display: flex;
@@ -581,7 +589,7 @@ footer {
     justify-items: center;
     flex-direction: column;
     text-align: center;
-    background: linear-gradient(90deg, #199F8B 0%, #23C7AF 100%)
+    background: linear-gradient(90deg, #199F8B 0%, #23C7AF 100%);
 }
 
 #investir{
@@ -624,21 +632,27 @@ footer {
 
 
 #separador1,
-#separador2{
-    height: 150px;
+#separador2,
+#separador3,
+#separador4{
+    height: 75px;
     display: flex;
     width: 100vw;
     position: relative;
 }
 
 #separador1{
-    background: hsla(226, 68%, 94%, 1);
+    background-color: white;
+}
 
-background: linear-gradient(150deg, hsla(226, 68%, 94%, 1) 49%, hsla(351, 65%, 33%, 1) 50%, hsla(351, 79%, 39%, 1) 80%);
+#separador2{
+    background: linear-gradient(to right, #891D2E, #B2152C);
+}
 
-background: -moz-linear-gradient(150deg, hsla(226, 68%, 94%, 1) 49%, hsla(351, 65%, 33%, 1) 50%, hsla(351, 79%, 39%, 1) 80%);
+#separador3{
+    background: linear-gradient(to right, #891D2E, #B2152C);
+}
 
-background: -webkit-linear-gradient(150deg, hsla(226, 68%, 94%, 1) 49%, hsla(351, 65%, 33%, 1) 50%, hsla(351, 79%, 39%, 1) 80%);
-
-filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#E5EAFA", endColorstr="#891D2E", GradientType=1 );
+#separador4{
+    background: linear-gradient(90deg, #199F8B 0%, #23C7AF 100%);
 }
