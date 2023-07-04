@@ -23,6 +23,6 @@ document.addEventListener('DOMContentLoaded', function() {
   document.addEventListener("DOMContentLoaded", function() {
     var button = document.getElementById("thanksto");
     button.addEventListener("click", function() {
-      alert("Lucas Oliveira Macedo\nAriane Ferreira de Andrade\nNickolas Marmitt Murakami\nDisciplina de Ferramentas Web/UX.\nProfessor: Claudinei Dias.");
+      alert("Lucas Oliveira Macedo\nAriane Ferreira de Andrade\nNickolas Marmitt Murakami\nNicolas Borges\nGabriel Doin\nDisciplina de Ferramentas Web/UX.\nProfessor: Claudinei Dias.");
     });
   });
