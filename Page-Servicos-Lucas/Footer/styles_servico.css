@@ -159,7 +159,7 @@ footer {
     margin-top: 100px;
     margin-left: 40px;
     height: 530px;
-    width: 48%;
+    width: 52%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -173,10 +173,118 @@ footer {
     height: 530px;
     width: 100%;
     display: flex;
-    padding-left: 138px;
-    padding-right: 40px;
+    padding-left: 40px;
+    padding-right: 10px;
 }
 
 #emprestimos-sub{
     font-size: 20px;
+    width: 90%;
+}
+
+.emprestimo-button{
+    background-color: white;
+    width: 220px;
+    height: 170px;
+    font-size: 20px;
+    font-size: 20px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1.4px;
+    border-radius: 10px;
+    color: black;
+    padding-left: 37px;
+    padding-right: 37px;
+    padding-top: 35px;
+    margin-left: 10px;
+}
+
+.icon {
+    color: #891D2E;
+    font-size: 30px;
+}
+
+#loja{
+    width: 48px;
+    height: 40px;
+}
+
+#cartao{
+    width: 42px;
+    height: 35px;
+}
+
+#phone{
+    width: 27px;
+    height: 42px;
+}
+
+#emprestimos-buttons{
+    display: flex;
+}
+
+#pedir{
+    width: 240px;
+    height: 54px;
+    background: none;
+    border-color: white;
+    border-radius: 20px;
+    border-style: solid;
+    color: white;
+    font-size: 16px;
+    position: absolute;
+    left: 608px;
+    bottom: 0px;
+}
+
+#investimentos{
+    position: absolute;
+    width: 67%;
+    left: 238px;
+    top: 1938px;
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+#investir{
+    background: none;
+    border-color: white;
+    border-style: solid;
+    width: 240px;
+    height: 54px;
+    margin-top: 24px;
+    border-radius: 20px;
+    color: white;
+}
+
+#investimentos-buttons{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.investimento-button{
+    width: 220px;
+    height: 170px;
+    margin-left: 7.5px;
+    margin-right: 7.5px;
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+    padding: 35px;
+}
+
+.icon-investimento{
+    font-size: 30px;
+    color: #1AA28E;
+    margin-bottom: 10px;
+}
+
+#titulo-investimento{
+    font-size: 50px;
 }
