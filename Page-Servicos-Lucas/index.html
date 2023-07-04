@@ -1,15 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Crew Bank</title>
+    <title>Crew Bank - Serviços</title>
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700&display=swap" rel="stylesheet">
+     <!-- Bootstrap CSS v5.2.1 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <!-- Links da fonte -->
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
 </head>
 <body>
+
+    <!-- Inicio parte Lucas Macedo -->
     <header class="header">    
             <svg id="navbar-logo" width="68" height="41" viewBox="0 0 68 41" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g id="Logomarca CS">
@@ -104,7 +111,148 @@
         </nav>
     </container>
 
+    <!-- Fim parte Lucas Macedo -->
+    <!-- Inicio parte Nicolas Borges -->
 
+    <section id="emprestimos">
+      <div id="foto1">
+        <div id="red-frame"></div>
+      </div>
+
+      <div id="emprestimos-menu">
+        <p id="emprestimos-title"><b>Empréstimos</b></p>
+        <p id="emprestimos-sub">Nosso crédito é o mais justo e seguro do mercado, escolha uma das opções que mais combina com você:</p>
+        <div id="emprestimos-buttons">
+          <div class="emprestimo-button">
+            <i class="fas fa-store icon" id="loja"></i>
+            <br>
+            Empréstimo Pessoal
+          </div>
+          <div class="emprestimo-button">
+            <i class="fas fa-credit-card icon" id="cartao"></i>
+            <br>
+            Empréstimo Facilitado
+          </div>
+          <div class="emprestimo-button">
+            <i class="fas fa-mobile-alt icon" id="phone"></i>
+            <br>
+            Menor juro do mercado
+          </div>
+        </div>
+        <button id="pedir">
+          Pedir empréstimos
+        </button>
+      </div>
+    </section>
+
+    <section id="investimentos">
+      <h1 id="titulo-investimento"><b>Faça o seu dinheiro render</b></h1>
+      <br>
+      <h4>Explore as nossas opções de investimentos e escolha a que mais reflete o seu perfil de investidor.</h3>
+      <br>
+      <div id="investimentos-buttons">
+        <div class="investimento-button">
+          <i class="fas fa-university icon-investimento"></i>
+          <p>Investimento CDB</p>
+        </div>
+        <div class="investimento-button">
+          <i class="fab fa-btc icon-investimento"></i>
+          <p>Investimento em Cripto</p>
+        </div>
+        <div class="investimento-button">
+          <i class="fas fa-chart-line icon-investimento"></i>
+          <p>Rendimento CDI</p>
+        </div>
+        <div class="investimento-button">
+          <i class="fas fa-building icon-investimento"></i>
+          <p>Fundos Imobiliários</p>
+        </div>
+      </div>
+      <button id="investir">Investir</button>
+    </div>
+
+    <footer>
+      <div id="creditos">
+        <div id="creditos-intro">
+          <p id="crewbank-footer">CrewBank</p>
+          <p id="thanksto">
+            <b>Criado por</b>  
+          </p>
+        </div>
+        <div id="creditos-columns">
+          <div class="creditos-column">
+            <h3><b>Inicio</b></h3>
+            <ul>
+              <li>Sobre a Crew Bank</li>
+              <li>Produtos e Serviços</li>
+              <li>FAQ</li>
+            </ul>
+          </div>
+          <div class="creditos-column">
+            <h3><b>Contatos</b></h3>
+            <ul>
+              <li>0800 123 4567</li>
+              <li>+55 47 9876-5432</li>
+              <li>0800 987 6543</li>
+              <li>crewbank@crewbank.com</li>
+            </ul>
+          </div>
+          <div class="creditos-column">
+            <h3><b>Informações</b></h3>
+            <ul>
+              <li>©2023-2023 Crew Bank S/A</li>
+              <li>89.007.355/0001-16</li>
+              <li>Rua Goiás, 1254, Loja 1, Vila Nova. Brasília - DF, Brasil - CEP 00000-000</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      
+      <div id="social">
+        <div id="icons" class="d-flex justify-content-center align-items-center">
+          <a href="#" class="btn btn-outline-ligh me-2">
+            <i class="fab fa-linkedin"></i>
+          </a>
+          <a href="#" class="btn btn-outline-ligh me-2">
+            <i class="fab fa-facebook-f"></i>
+          </a>
+          <a href="#" class="btn btn-outline-ligh me-2">
+            <i class="fab fa-instagram"></i>
+          </a>
+          <a href="#" class="btn btn-outline-ligh me-2">
+            <i class="fab fa-twitter"></i>
+          </a>
+          <a href="#" class="btn btn-outline-ligh me-2">
+            <i class="fab fa-tiktok"></i>
+          </a>
+          <a href="#" class="btn btn-outline-ligh me-2">
+            <i class="fab fa-youtube"></i>
+          </a>
+        </div>
+  
+        <h5>
+          AJUDA
+        </h5>
+  
+        <div id="downloads" class="d-flex justify-content-center">
+          <a href="#" class="btn btn-primary me-2">
+            <div class="d-flex align-items-center">
+              <i class="fab fa-apple fa-lg me-2"></i>
+              <span>Download on the <br> App Store</span>
+            </div>
+          </a>
+          <a href="#" class="btn btn-primary">
+            <div class="d-flex align-items-center">
+              <i class="fab fa-google-play fa-lg me-2"></i>
+              <span>Get it on <br> Google Play</span>
+            </div>
+          </a>
+        </div>
+   
+      </div>    
+    </footer>
+
+    <!-- Fim parte Nicolas Borges -->
 
 </body>
 </html>

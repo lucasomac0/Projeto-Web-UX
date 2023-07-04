@@ -1,3 +1,5 @@
+/*Início parte Lucas Macedo*/
+
 *{
     margin: 0%;
     padding: 0%;
@@ -331,6 +333,288 @@
     position: absolute;
 }
 
+/*Fim parte Lucas Macedo*/
 
+/*Início parte Nicolas Borges*/
 
+footer {
+    background-color: #121212;
+    width: 100%;
+    height: 333px; /* Adjust this value as needed */
+    position: absolute;
+    top: 100%;
+    color: white;
+}
+
+#social {
+    border-top: 2px solid white;
+    height: 79px;
+    width: 90%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+#icons {
+    position: absolute;
+    left: 10px;    
+}
+
+#icons .btn {
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    border-radius: 50%;
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+    transition: all 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#icons .btn i {
+    font-size: 24px;
+}
+
+#icons .btn:hover {
+    background-color: white;
+    color: #121212;
+    transition: color 0.3s;
+}
+
+#downloads {
+    position: absolute;
+    right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#downloads .btn i {
+    font-size: 40px; /* Increase the font size as needed */
+}
+
+@font-face {
+    font-family: 'Ferro Rosso';
+    src: url('fonts/FerroRosso.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#creditos{
+    position: absolute;
+    top: 43px;
+    left: 50px;
+    width: 90%;
+    height: 190px;
+}
+
+#crewbank-footer {
+    font-family: 'Ferro Rosso', sans-serif;    font-size: 50px;
+    position: absolute;
+    color: white;
+}
+
+#thanksto{
+    font-size: 20px;
+    position: absolute;
+    top: 100px;
+}
+
+#creditos-columns {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    left: 300px;
+    top: 15px;
+    width: 80%;
+}
+
+.creditos-column {
+    border-left: 100px;
+    position: relative;
+    width: 200px;
+}
+
+.creditos-column h3 {
+    color: white;
+    font-size: 20px;
+}
+
+.creditos-column ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 10px;
+}
+
+.creditos-column li {
+    margin-bottom: 15px;
+    color: white;
+    font-size: 14px;
+}
+  
+#foto1{
+    width: 530px;
+    height: 530px;
+    background-image: url(imgs/phoneman.jpg);
+    background-size: contain;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#red-frame{
+    border-style: solid;
+    border-width: 5px;
+    border-color:#C92C44;
+    border-radius: 20px;
+    position: absolute;
+    width: 500px;
+    height: 500px;
+}
+
+#emprestimos-menu{
+    margin-top: 100px;
+    margin-left: 40px;
+    height: 530px;
+    width: 52%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 45px;
+    color: white;
+}
+
+#emprestimos{
+    position: relative;
+    height: 530px;
+    width: 100%;
+    display: flex;
+    padding-left: 40px;
+    padding-right: 10px;
+    background: linear-gradient(to right, #891D2E, #B2152C);
+}
+
+#emprestimos-sub{
+    font-size: 20px;
+    width: 90%;
+}
+
+.emprestimo-button{
+    background-color: white;
+    width: 220px;
+    height: 170px;
+    font-size: 20px;
+    font-size: 20px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1.4px;
+    border-radius: 10px;
+    color: black;
+    padding-left: 37px;
+    padding-right: 37px;
+    padding-top: 35px;
+    margin-left: 10px;
+}
+
+.icon {
+    color: #891D2E;
+    font-size: 30px;
+}
+
+#loja{
+    width: 48px;
+    height: 40px;
+}
+
+#cartao{
+    width: 42px;
+    height: 35px;
+}
+
+#phone{
+    width: 27px;
+    height: 42px;
+}
+
+#emprestimos-buttons{
+    display: flex;
+}
+
+#pedir{
+    width: 240px;
+    height: 54px;
+    background: none;
+    border-color: white;
+    border-radius: 20px;
+    border-style: solid;
+    color: white;
+    font-size: 16px;
+    position: absolute;
+    left: 608px;
+    bottom: 0px;
+}
+
+#investimentos{
+    position: relative;
+    padding: 5vh;
+    width: 100%;
+    margin-top: 10vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    text-align: center;
+    background: linear-gradient(90deg, #199F8B 0%, #23C7AF 100%)
+}
+
+#investir{
+    background: none;
+    border-color: white;
+    border-style: solid;
+    width: 240px;
+    height: 54px;
+    margin-top: 24px;
+    border-radius: 20px;
+    color: white;
+}
+
+#investimentos-buttons{
+    display: flex;
+    flex-direction: row;
+}
+
+.investimento-button{
+    width: 220px;
+    height: 170px;
+    margin-left: 7.5px;
+    margin-right: 7.5px;
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+    padding: 35px;
+    font-size: 16px;
+}
+
+.icon-investimento{
+    font-size: 34px;
+    color: #1AA28E;
+    margin-bottom: 10px;
+}
+
+#titulo-investimento{
+    font-size: 50px;
+}
   
