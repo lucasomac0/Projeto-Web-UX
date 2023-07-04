@@ -1,0 +1,644 @@
+/*Início parte Lucas Macedo*/
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    background-color: #E5EAFA;
+}
+
+.header{
+    width: 100%;
+    height: 8vh;
+    background-color: #E5EAFA;
+    padding: 1%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-bottom: 1.5px solid black;
+}
+
+.navbar{
+    display: flex;
+    margin-left: 5vw;
+    column-gap: 5vw;
+}
+
+.navbar-options{
+    font-family: 'Montserrat', sans-serif;
+    color: #112A46;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.22vw;
+    line-height: 28px;
+    align-items: center;
+    display: flex;
+    letter-spacing: 0.07em;
+    text-align: center;
+}
+
+#separador-header{
+    border: none;
+    border-left: 1px solid #8F929C;
+    height: 6vh;
+    align-items: center;
+    margin-left: 2vw;
+}
+
+.subheader{
+    width: 100vw;
+    height: 51.33vh;
+    background-image:url(/imgs/banco.jpg);
+    background-size: 100% 90vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 25% 0px 25%;
+    flex-direction: column;
+    row-gap: 3vh;
+}
+
+#h1-sheader{
+    color: var(--cor-fundo-clara, #E5EAFA);
+    text-align: center;
+    font-size: 3vw;
+    font-family: Montserrat;
+    font-weight: 700;
+    letter-spacing: 0.20vw;
+    text-shadow: 1px 1px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+}
+
+#h3-sheader{
+    color: var(--cor-fundo-clara, #E5EAFA);
+    font-size: 1.86vw;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.09vw;
+    text-shadow: 1px 1px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+}
+
+#cards-grid{
+    width: 33vw;
+    display: grid;
+    grid-template-columns: 800px 325px;
+    grid-template-rows: 245px;
+    justify-content: space-between;
+    gap: 20px;
+    margin-top: 10vh;
+    margin-left: 18vw;
+    margin-bottom: 0vh;
+}
+
+#card3-4-group{
+    display: grid;
+    grid-template-columns: 325px 800px;
+    gap: 20px;
+}
+
+#card1{
+    width: 800.003px;
+    height: 245px;
+    position: relative;
+    background: #EAFAE5;
+    border-radius: 10px;
+    overflow: hidden;
+    border-left: 1px black solid;
+    border-top: 1px black solid;
+    border-right: 1px black solid;
+    border-bottom: 1px black solid
+}
+
+#card2{
+    border-bottom: 1px black solid;
+    width: 324.998px;
+    height: 245px;
+    position: relative;
+    background: #FAF5E5;
+    border-radius: 10px;
+    overflow: hidden;
+    border-left: 1px black solid;
+    border-top: 1px black solid;
+    border-right: 1px black solid;
+}
+
+#card3{
+    width: 325px;
+    height: 245px;
+    position: relative;
+    background: #EEE5FA;
+    border-radius: 10px;
+    overflow: hidden;
+    border-top: 1px black solid;
+    border-right: 1px black solid;
+    border-left: 1px black solid;
+    border-bottom: 1px black solid;
+}
+
+#card4{
+    width: 800px;
+    height: 245px;
+    position: relative;
+    background: #FAE5EA;
+    border-radius: 10px;
+    overflow: hidden;
+    border-top: 1px black solid;
+    border-right: 1px black solid;
+    border-left: 1px black solid;
+    border-bottom: 1px black solid;
+}
+
+.txtc1bold{
+    word-wrap: break-word;
+    left: 72px;
+    top: 37px;
+    position: absolute;
+    color: #112A46;
+    font-size: 36px;
+    font-family: Montserrat;
+    font-weight: 700;
+    letter-spacing: 2.52px;
+}
+
+#txtc2light{
+    width: 299.002px;
+    left: 12.998px;
+    top: 84px;
+    position: absolute;
+    text-align: center;
+    color: #112A46;
+    font-size: 20.002px;
+    font-weight: 500;
+    letter-spacing: 1.402px;
+    word-wrap: break-word;
+    font-family: Montserrat;
+}
+
+#txtc3bold{
+    width: 292px;
+    left: 17px;
+    top: 38px;
+    position: absolute;
+    text-align: center;
+    color: #112A46;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 2.24px;
+    word-wrap: break-word;
+    font-family: Montserrat;
+}
+
+#txtc4bold{
+    left: 32px;
+    top: 21px;
+    position: absolute;
+    color: #112A46;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 2.52px;
+    word-wrap: break-word;
+    font-family: Montserrat;
+}
+
+.txtc1light{
+    width: 453.998px;
+    left: 72px;
+    top: 104px;
+    position: absolute;
+    color: #112A46;
+    font-size: 20.002px;
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 1.40px;
+    word-wrap: break-wd;
+}
+
+#txtc3light{
+    width: 309px;
+    left: 8px;
+    top: 99px;
+    position: absolute;
+    text-align: center;
+    color: #112A46;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 1.40px;
+    word-wrap: break-word;
+    font-family: Montserrat;
+}
+
+#txtc4light{
+    width: 454px;
+    left: 32px;
+    top: 85px;
+    position: absolute;
+    color: #112A46;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 1.40px;
+    word-wrap: break-word;
+    font-family: Montserrat;
+}
+
+#btnc1{
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 189px;
+    height: 54px;
+    padding-left: 15.998px;
+    padding-right: 15.998px;
+    left: 72px;
+    top: 159px;
+    position: absolute;
+    background: #112A46;
+    border-radius: 5px;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+}
+
+#btnc2{
+    width: 185.003px;
+    height: 54px;
+    padding-left: 15.998px;
+    padding-right: 15.998px;
+    left: 71px;
+    top: 162px;
+    position: absolute;
+    background: #112A46;
+    border-radius: 5px;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#btnc3{
+    width: 185px;
+    height: 54px;
+    padding-left: 16px;
+    padding-right: 16px;
+    left: 70px;
+    top: 173px;
+    position: absolute;
+    background: #112A46;
+    border-radius: 5px;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#btnc4{
+    width: 185px;
+    height: 54px;
+    padding-left: 16px;
+    padding-right: 16px;
+    left: 32px;
+    top: 173px;
+    position: absolute;
+    background: #112A46;
+    border-radius: 5px;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.btntxt{
+    color: #E5EAFA;
+    font-size: 15.998px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+#card1img{
+    width: 329.002px;
+    height: 250px;
+    left: 429px;
+    top: 1px;
+    position: absolute;
+}
+
+#card4img{
+    width: 278px;
+    height: 234px;
+    left: 475px;
+    top: 11px;
+    position: absolute;
+}
+
+/*Fim parte Lucas Macedo*/
+
+/*Início parte Nicolas Borges*/
+
+footer {
+    background-color: #121212;
+    width: 100%;
+    height: 333px; /* Adjust this value as needed */
+    position: absolute;
+    top: 100%;
+    color: white;
+}
+
+#social {
+    border-top: 2px solid white;
+    height: 79px;
+    width: 90%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+#icons {
+    position: absolute;
+    left: 10px;    
+}
+
+#icons .btn {
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    border-radius: 50%;
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+    transition: all 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#icons .btn i {
+    font-size: 24px;
+}
+
+#icons .btn:hover {
+    background-color: white;
+    color: #121212;
+    transition: color 0.3s;
+}
+
+#downloads {
+    position: absolute;
+    right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#downloads .btn i {
+    font-size: 40px; /* Increase the font size as needed */
+}
+
+@font-face {
+    font-family: 'Ferro Rosso';
+    src: url('fonts/FerroRosso.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#creditos{
+    position: absolute;
+    top: 43px;
+    left: 50px;
+    width: 90%;
+    height: 190px;
+}
+
+#crewbank-footer {
+    font-family: 'Ferro Rosso', sans-serif;    font-size: 50px;
+    position: absolute;
+    color: white;
+}
+
+#thanksto{
+    font-size: 20px;
+    position: absolute;
+    top: 100px;
+}
+
+#creditos-columns {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    left: 300px;
+    top: 15px;
+    width: 80%;
+}
+
+.creditos-column {
+    border-left: 100px;
+    position: relative;
+    width: 200px;
+}
+
+.creditos-column h3 {
+    color: white;
+    font-size: 20px;
+}
+
+.creditos-column ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 10px;
+}
+
+.creditos-column li {
+    margin-bottom: 15px;
+    color: white;
+    font-size: 14px;
+}
+  
+#foto1{
+    width: 530px;
+    height: 530px;
+    background-image: url(imgs/phoneman.jpg);
+    background-size: contain;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#red-frame{
+    border-style: solid;
+    border-width: 5px;
+    border-color:#C92C44;
+    border-radius: 20px;
+    position: absolute;
+    width: 500px;
+    height: 500px;
+}
+
+#emprestimos-menu{
+    margin-top: 100px;
+    margin-left: 40px;
+    height: 530px;
+    width: 52%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 45px;
+    color: white;
+}
+
+#emprestimos{
+    position: relative;
+    height: 530px;
+    width: 100%;
+    display: flex;
+    padding-left: 40px;
+    padding-right: 10px;
+    background: linear-gradient(to right, #891D2E, #B2152C);
+}
+
+#emprestimos-sub{
+    font-size: 20px;
+    width: 90%;
+}
+
+.emprestimo-button{
+    background-color: white;
+    width: 220px;
+    height: 170px;
+    font-size: 20px;
+    font-size: 20px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1.4px;
+    border-radius: 10px;
+    color: black;
+    padding-left: 37px;
+    padding-right: 37px;
+    padding-top: 35px;
+    margin-left: 10px;
+}
+
+.icon {
+    color: #891D2E;
+    font-size: 30px;
+}
+
+#loja{
+    width: 48px;
+    height: 40px;
+}
+
+#cartao{
+    width: 42px;
+    height: 35px;
+}
+
+#phone{
+    width: 27px;
+    height: 42px;
+}
+
+#emprestimos-buttons{
+    display: flex;
+}
+
+#pedir{
+    width: 240px;
+    height: 54px;
+    background: none;
+    border-color: white;
+    border-radius: 20px;
+    border-style: solid;
+    color: white;
+    font-size: 16px;
+    position: absolute;
+    left: 608px;
+    bottom: 0px;
+}
+
+#investimentos{
+    position: relative;
+    padding: 5vh;
+    width: 100%;
+    margin-top: 0vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    text-align: center;
+    background: linear-gradient(90deg, #199F8B 0%, #23C7AF 100%)
+}
+
+#investir{
+    background: none;
+    border-color: white;
+    border-style: solid;
+    width: 240px;
+    height: 54px;
+    margin-top: 24px;
+    border-radius: 20px;
+    color: white;
+}
+
+#investimentos-buttons{
+    display: flex;
+    flex-direction: row;
+}
+
+.investimento-button{
+    width: 220px;
+    height: 170px;
+    margin-left: 7.5px;
+    margin-right: 7.5px;
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+    padding: 35px;
+    font-size: 16px;
+}
+
+.icon-investimento{
+    font-size: 34px;
+    color: #1AA28E;
+    margin-bottom: 10px;
+}
+
+#titulo-investimento{
+    font-size: 50px;
+}
+
+
+#separador1,
+#separador2{
+    height: 150px;
+    display: flex;
+    width: 100vw;
+    position: relative;
+}
+
+#separador1{
+    background: hsla(226, 68%, 94%, 1);
+
+background: linear-gradient(150deg, hsla(226, 68%, 94%, 1) 49%, hsla(351, 65%, 33%, 1) 50%, hsla(351, 79%, 39%, 1) 80%);
+
+background: -moz-linear-gradient(150deg, hsla(226, 68%, 94%, 1) 49%, hsla(351, 65%, 33%, 1) 50%, hsla(351, 79%, 39%, 1) 80%);
+
+background: -webkit-linear-gradient(150deg, hsla(226, 68%, 94%, 1) 49%, hsla(351, 65%, 33%, 1) 50%, hsla(351, 79%, 39%, 1) 80%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#E5EAFA", endColorstr="#891D2E", GradientType=1 );
+}
