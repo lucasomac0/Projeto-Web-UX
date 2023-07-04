@@ -1,0 +1,1333 @@
+.Home {
+    width: 100%; 
+    height: 2694px; 
+    position: relative; 
+    background: #E5EAFA
+}
+
+.Frame48 {
+    width: 1440px; 
+    height: 800px;
+    left: 2px;
+    top: 1080px;
+    position: absolute; 
+    background: #E5EAFA;
+    margin: auto;
+}
+
+.SejaClienteEAproveiteTodosOsBenefCiosDaCrewSafe {
+    width: 888px;
+    left: 120px; 
+    top: 100px;
+    position: absolute; 
+    color: #112A46; 
+    font-size: 45px; 
+    font-family: Montserrat; 
+    font-weight: 700; 
+    letter-spacing: 3.15px; 
+    word-wrap: break-word;
+}
+
+.ContaDigital {
+    left: 406px;
+    top: 300px; 
+    position: absolute; 
+    color: #112A46; 
+    font-size: 30px; 
+    font-family: Montserrat; 
+    font-weight: 700; 
+    letter-spacing: 2.10px; 
+    word-wrap: break-word;
+}
+
+.Pix {
+    left: 1049px;
+    top: 552px; 
+    position: absolute; 
+    color: #112A46; 
+    font-size: 30px; 
+    font-family: Montserrat; 
+    font-weight: 700; 
+    letter-spacing: 2.10px; 
+    word-wrap: break-word;
+}
+
+.Investimentos {
+    left: 406px; 
+    top: 570px; 
+    position: absolute; 
+    color: #112A46; 
+    font-size: 30px; 
+    font-family: Montserrat; 
+    font-weight: 700; 
+    letter-spacing: 2.10px; 
+    word-wrap: break-word;
+}
+
+.AbraSuaContaDeFormaPrTicaERPidaTudoNoConfortoDaSuaCasa {
+    width: 321px; 
+    left: 406px; 
+    top: 357px; 
+    position: absolute; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Montserrat; 
+    font-weight: 500; 
+    letter-spacing: 1.40px; 
+    word-wrap: break-word;
+}
+
+.PortabilidaeSalario {
+    height: 214px; 
+    left: 1049px; 
+    top: 272px; 
+    position: absolute;
+}
+
+.PortabilidadeDeSalRio {
+    width: 262px;
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    color: #112A46; 
+    font-size: 30px; 
+    font-family: Montserrat; 
+    font-weight: 700; 
+    letter-spacing: 2.10px; 
+    word-wrap: break-word;
+}
+
+.TragaSeuSalRioParaOAppETenhaAcessoATodosOsDadosQuePrecisarEmPoucosCliques {
+    width: 270px; 
+    left: 0px; 
+    top: 94px; 
+    position: absolute; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Montserrat; 
+    font-weight: 500; 
+    letter-spacing: 1.40px; 
+    word-wrap: break-word;
+}
+
+.PagamentosEmPixDeQualquerLugarEmQualquerDispositivo {
+    width: 270px; 
+    left: 1049px; 
+    top: 609px; 
+    position: absolute; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Montserrat; 
+    font-weight: 500; 
+    letter-spacing: 1.40px; 
+    word-wrap: break-word;
+}
+
+.TemosDiversasOpEsDeInvestimentosTantoDeRendaFixaQuantoDeRendaVariVel {
+    width: 290px; 
+    left: 406px; 
+    top: 627px; 
+    position: absolute; 
+    color: black; 
+    font-size: 20px; 
+    font-family: Montserrat; 
+    font-weight: 500; 
+    letter-spacing: 1.40px; 
+    word-wrap: break-word;
+}
+
+.FlatColorIconsMoneyTransfer {
+    width: 151px; 
+    height: 151px; 
+    left: 848px; 
+    top: 310px; 
+    position: absolute;
+}
+
+.IconePc {
+    width: 172px; 
+    height: 150px; 
+    left: 184px; 
+    top: 304px; 
+    position: absolute;
+}
+
+.IconParkStockMarket {
+    width: 129px;
+    height: 129px; 
+    padding-left: 16.12px; 
+    padding-right: 16.12px; 
+    padding-top: 10.75px; 
+    padding-bottom: 10.75px; 
+    left: 227px; top: 570px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex;
+}
+
+.Group {
+    width: 96.75px;
+    height: 107.50px; 
+    position: relative;
+}
+
+.IcBaselinePix {
+    width: 100px;
+    height: 100px;
+    left: 899px; 
+    top: 570px; 
+    position: absolute;
+}
+
+.Vector12 {
+    width: 1436px;
+    height: 200px; 
+    left: 2px; 
+    top: 1879.50px; 
+    position: absolute; 
+    background: #E5EAFA;
+}
+
+.Vector13 {
+    width: 1436px; 
+    height: 199.50px; 
+    left: 2px; 
+    top: 1880px; position: absolute; 
+    background: linear-gradient(90deg, #B9D0CC 0%, #E5EAFA 100%);
+}
+
+.Frame52 {
+    width: 1436px; 
+    height: 613px; 
+    left: 2px; 
+    top: 2079px; 
+    position: absolute; 
+    background: linear-gradient(90deg, #B9D0CC 0%, #E5EAFA 100%);    
+}
+
+.ContaGratuitaDeFCilAcessoESemBurocracia {
+    left: 81px; 
+    top: 138px; 
+    position: absolute; 
+    color: #112A46; 
+    font-size: 45px; 
+    font-family: Montserrat; 
+    font-weight: 700; 
+    letter-spacing: 3.15px; 
+    word-wrap: break-word;
+}
+
+.AbraASuaContaNoBancoQueMaisCresceNoBrasil { 
+    left: 262px; 
+    top: 252px; 
+    position: absolute; 
+    color: #112A46; 
+    font-size: 30px; 
+    font-family: Montserrat; 
+    font-weight: 500; 
+    letter-spacing: 2.10px; 
+    word-wrap: break-word;
+}
+
+.AbrirContaDigitla{
+    width: 307px; 
+    height: 60px; 
+    left: 567px; 
+    top: 362px; 
+    position: absolute;
+}
+
+.AbrirContaDigital {
+    width: 265px; 
+    height: 30px; 
+    left: 21px; 
+    top: 15px; 
+    position: absolute; 
+    text-align: center; 
+    color: #112A46; 
+    font-size: 25px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    letter-spacing: 1.75px; 
+    word-wrap: break-word;
+}
+
+.Vector16 {
+    width: 10px; 
+    height: 0px; 
+    left: 79.50px; 
+    top: 0.50px; 
+    position: absolute; 
+    border: 0.50px black solid;
+}
+
+.Header {
+    width: 1438px; 
+    height: 80px; 
+    left: 1px; 
+    top: 0px; 
+    position: absolute;
+}
+
+.Rectangle15 {
+    width: 1438px; 
+    height: 80px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: #E5EAFA; 
+    border-left: 0.50px black solid; 
+    border-top: 0.50px black solid; 
+    border-right: 0.50px black solid; 
+    border-bottom: 0.50px black solid;
+}
+
+.BotaoEntre {
+    width: 115.84px; 
+    height: 36px; 
+    left: 1301.18px; 
+    top: 22px; 
+    position: absolute;
+}
+
+.AbraASuaContaDeForma100DigitalTantoPeloSiteQuantoPeloApp {
+    width: 664px; 
+    left: 68px; 
+    top: 390px; 
+    position: absolute; 
+    text-align: center; 
+    color: #E5EAFA; 
+    font-size: 30px; 
+    font-family: Montserrat; 
+    font-weight: 500; 
+    line-height: 39px; 
+    word-wrap: break-word   
+}
+
+.AbraUmaConta {
+    left: 118px;
+    top: 250px; 
+    position: absolute; 
+    text-align: center; 
+    color: #E5EAFA; 
+    font-size: 60px; 
+    font-family: Montserrat; 
+    font-weight: 800; 
+    letter-spacing: 4.20px;
+    word-wrap: break-word
+}
+
+.ContinueNavegndo {
+    left: -118px;
+    top: 96px; 
+    position: absolute; 
+    text-align: center; 
+    color: black; 
+    font-size: 13px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    letter-spacing: 0.91px; 
+    word-wrap: break-word;
+    width: 223px;
+    height: 36px;
+}
+
+.Rectangle16 {
+    width: 210px; 
+    height: 29px; 
+    left: -100px; 
+    top: 90px; 
+    position: absolute; 
+    background: #E5EAFA; 
+    border-radius: 50px
+}
+
+.ContinueNavegando {
+    width: 223px; 
+    height: 36px; 
+    left: 607px; 
+    top: 945px; 
+    position: absolute
+}
+
+.EscaneieComOSeuCelularParaBaixarOAppDaCrewBank{
+    width: 255px; 
+    height: 154.34px; 
+    left: 215px; 
+    top: 10.88px; 
+    position: absolute; 
+    text-align: center; 
+    color: #E5EAFA; 
+    font-size: 30px; 
+    font-family: Montserrat; 
+    font-weight: 500; 
+    line-height: 39px; 
+    word-wrap: break-word
+}
+
+.Group21 {
+    width: 470px; 
+    height: 186px; 
+    left: 118px; 
+    top: 629px; 
+    position: absolute
+}
+
+.FrameDoCarrosel {
+    width: 1440px; 
+    height: 1000px; 
+    left: 0px; 
+    top: 80px; 
+    position: absolute; 
+    background: linear-gradient(180deg, #9B2234 78%, #3F0D16 100%)
+}
+
+.AppStore {
+    width: 109.28px; 
+    height: 23.25px; 
+    left: 57.09px; 
+    top: 23.02px; 
+    position: absolute
+}
+
+.DownloadOnThe {
+    width: 106.25px; 
+    height: 9.32px; 
+    left: 58.82px; 
+    top: 7.74px; 
+    position: absolute
+}
+
+.Vector {
+    width: 28.44px; 
+    height: 34.06px; 
+    left: 16.50px; 
+    top: 7.29px; 
+    position: absolute; 
+    background: white
+}
+
+.Bg {
+    width: 182.94px; 
+    height: 51.38px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: #1D1D1B
+}
+
+.Group {
+    width: 182.94px; 
+    height: 51.38px; 
+    position: relative
+}
+
+.AppStore {
+    width: 185px; 
+    height: 53.40px; 
+    padding-left: 1.03px; 
+    padding-right: 1.03px; 
+    padding-top: 1.01px; 
+    padding-bottom: 1.01px; 
+    left: 999px; 
+    top: 267px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+}
+
+.GooglePlay{
+    width: 92.44px; 
+    height: 18.11px; 
+    left: 55.94px; 
+    top: -7.87px; 
+    position: absolute; 
+    background: white
+}
+
+.GetItOn {
+    width: 42.36px; 
+    height: 6.67px; 
+    left: 56.36px; 
+    top: -35.70px; 
+    position: absolute
+}
+
+.Linha {
+    width: 1338px; 
+    height: 0px; 
+    left: 50px; 
+    top: 253px; 
+    position: absolute; 
+    background: #F5F5F5; 
+    border: 0.50px white solid
+}
+
+.InformaEs {
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    color: #F5F5F5; 
+    font-size: 20px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    letter-spacing: 1.40px; 
+    word-wrap: break-word
+}
+
+.RuaGoiS1254Loja1VilaNovaBrasLiaDfBrasilCep00000000 {
+    width: 206px; 
+    left: 0px; 
+    top: 108px; 
+    position: absolute; 
+    color: #F5F5F5; 
+    font-size: 13px; 
+    font-family: Montserrat; 
+    font-weight: 400; 
+    letter-spacing: 0.91px; 
+    word-wrap: break-word;
+}
+
+.CrewBankSA {
+    left: 0px; 
+    top: 44px; 
+    position: absolute; 
+    color: #F5F5F5; 
+    font-size: 13px; 
+    font-family: Montserrat; 
+    font-weight: 400; 
+    letter-spacing: 0.91px; 
+    word-wrap: break-word
+}
+
+.numero {
+    left: 0px; 
+    top: 80px; 
+    position: absolute; 
+    color: #F5F5F5; 
+    font-size: 13px; 
+    font-family: Montserrat; 
+    font-weight: 400; 
+    letter-spacing: 0.91px; 
+    word-wrap: break-word
+}
+
+.InformaEs {
+    width: 206px;
+    height: 156px; 
+    left: 1139px; 
+    top: 51px; 
+    position: absolute
+}
+
+.CriadaPor {
+    left: 0px;
+    top: 74px; 
+    position: absolute; 
+    color: #F5F5F5; 
+    font-size: 20px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    letter-spacing: 1.40px; 
+    word-wrap: break-word
+}
+
+.InCio{
+    left: 281px; 
+    top: 0px; 
+    position: absolute; 
+    color: #F5F5F5; 
+    font-size: 20px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    letter-spacing: 1.40px; 
+    word-wrap: break-word
+}
+
+.ProdutosEServiOs {
+    left: 281px; 
+    top: 80px; 
+    position: absolute; 
+    color: #F5F5F5; 
+    font-size: 13px; 
+    font-family: Montserrat; 
+    font-weight: 400; 
+    letter-spacing: 0.91px; 
+    word-wrap: break-word
+}
+
+.SobreACrewBank {
+    left: 281px; 
+    top: 44px; 
+    position: absolute; 
+    color: #F5F5F5; 
+    font-size: 13px; 
+    font-family: Montserrat; 
+    font-weight: 400; 
+    letter-spacing: 0.91px;
+    word-wrap: break-word
+}
+
+.Inicio {
+    width: 425px;
+    height: 98px; 
+    left: 99px; 
+    top: 51px; 
+    position: absolute
+}
+
+.Frame83 {
+    width: 18px; 
+    height: 17px; 
+    left: 59px; 
+    top: 280px; 
+    position: absolute; 
+    background: white
+}
+
+.Frame84 {
+    width: 9px; 
+    height: 17px; 
+    left: 103px; 
+    top: 280px; 
+    position: absolute; 
+    background: white
+}
+
+.Footer {
+    width: 1438px; 
+    height: 333px; 
+    left: 0px; 
+    top: 2692px; 
+    position: absolute; 
+    background: #121212
+}
+
+.EmprStimos {
+    width: 260px; 
+    left: 390px; 
+    top: 17px; 
+    position: absolute; 
+    text-align: center; 
+    color: rgba(0, 0, 0, 0); 
+    font-size: 25px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    letter-spacing: 1.75px; 
+    word-wrap: break-word
+}
+
+.TransferNcias{
+    width: 260px; 
+    left: 780px; 
+    top: 17px; 
+    position: absolute; 
+    text-align: center; 
+    color: rgba(0, 0, 0, 0); 
+    font-size: 25px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    letter-spacing: 1.75px; 
+    word-wrap: break-word
+}
+
+.Vector24 {
+    width: 0px; 
+    height: 155px; 
+    left: 325px; 
+    top: 0px; 
+    position: absolute; 
+    background: rgba(0, 0, 0, 0); 
+    border: 0.50px rgba(0, 0, 0, 0) solid
+}
+
+.Vector25 {
+    width: 0px; 
+    height: 155px; 
+    left: 715px; 
+    top: 0px; 
+    position: absolute; 
+    background: rgba(0, 0, 0, 0); 
+    border: 0.50px rgba(0, 0, 0, 0) solid
+}
+
+.SuaConta {
+    width: 260px; 
+    left: 0px; 
+    top: 17px; 
+    position: absolute; 
+    text-align: center; 
+    color: rgba(0, 0, 0, 0); 
+    font-size: 25px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    letter-spacing: 1.75px; 
+    word-wrap: break-word
+}
+
+.CartODeCrDito {
+    width: 260px; 
+    left: 0px; 
+    top: 107px; 
+    position: absolute; 
+    text-align: center; 
+    color: rgba(0, 0, 0, 0); 
+    font-size: 25px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    letter-spacing: 1.75px; 
+    word-wrap: break-word
+}
+
+.TransferNcias {
+    width: 260px;
+    left: 780px; 
+    top: 17px; 
+    position: absolute; 
+    text-align: center; 
+    color: rgba(0, 0, 0, 0); 
+    font-size: 25px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    letter-spacing: 1.75px; 
+    word-wrap: break-word
+}
+
+.EmprStimos {
+    width: 260px; 
+    left: 390px; 
+    top: 17px; 
+    position: absolute; 
+    text-align: center;
+    color: rgba(0, 0, 0, 0); 
+    font-size: 25px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    letter-spacing: 1.75px;
+    word-wrap: break-word
+}
+
+.OpEs {
+    width: 1040px; 
+    height: 155px; 
+    left: 35px; 
+    top: 100px; 
+    position: absolute;
+}
+
+.ACrewSafe {
+    left: 0px; 
+    top: 11.5px; 
+    position: absolute;
+    text-align: center; 
+    color: #112A46; 
+    font-size: 23px; 
+    font-family: Montserrat; 
+    font-weight: 500; 
+    letter-spacing: 1.61px; 
+    word-wrap: break-word;
+}
+
+.Label {
+    width: 300px;
+    height: 50px; 
+    padding-top: 11px; 
+    padding-bottom: 11px; 
+    padding-left: 58px; 
+    padding-right: 86px; 
+    left: 540px; 
+    top: 0px; 
+    position: absolute; 
+    background: #E5EAFA; 
+    border-radius: 10px; 
+    overflow: hidden; 
+    justify-content: flex-start; 
+    align-items: center; 
+    display: inline-flex;
+}
+
+.InformaEsTeis {
+    left: -40px; 
+    top: 0px; 
+    position: absolute; 
+    text-align: center; 
+    color: #112A46; 
+    font-size: 23px; 
+    font-family: Montserrat; 
+    font-weight: 500; 
+    letter-spacing: 1.61px; 
+    word-wrap: break-word;
+}
+
+.Group16 {
+    width: 268.50px; 
+    align-self: stretch; 
+    position: relative;
+}
+
+.ParaVoc {
+    left: 0px;
+    top: 0px; 
+    position: absolute; 
+    text-align: center; 
+    color: #112A46; 
+    font-size: 23px; 
+    font-family: Montserrat; 
+    font-weight: 500; 
+    letter-spacing: 1.61px; 
+    word-wrap: break-word;
+}
+
+.Vector23 {
+    width: 0px; 
+    height: 34px; 
+    left: 93px; 
+    top: 23px; 
+    position: absolute; 
+    border: 0.50px rgba(0, 0, 0, 0.75) solid
+}
+
+.LogomarcaCs {
+    width: 67.06px;
+    height: 40.27px; 
+    left: 13.01px; 
+    top: 20px; 
+    position: absolute;
+}
+
+.Polygon2 {
+    width: 40.03px; 
+    height: 11.47px; 
+    left: 0px; 
+    top: 40.18px; 
+    position: absolute; 
+    transform: rotate(-90deg); 
+    transform-origin: 0 0; 
+    background: black;
+}
+
+.Rectangle1 {
+    width: 36.31px; 
+    height: 36px; 
+    left: 15.38px; 
+    top: 0px; 
+    position: absolute; 
+    background: black;
+}
+
+.Polygon3 {
+    width: 40.03px; 
+    height: 11.47px; 
+    left: 67.06px; 
+    top: 0.15px; 
+    position: absolute; 
+    transform: rotate(90deg); 
+    transform-origin: 0 0; 
+    background: black;
+}
+
+.Rectangle4 {
+    width: 31.47px; 
+    height: 31.12px; 
+    left: 17.80px; 
+    top: 2.44px; 
+    position: absolute; 
+    background: white;
+}
+
+.Rectangle5 {
+    width: 29.05px; 
+    height: 28.68px; 
+    left: 19.01px; 
+    top: 3.66px; 
+    position: absolute; 
+    background: black;
+}
+
+.Rectangle2 {
+    width: 6.05px; 
+    height: 4.27px; 
+    left: 15.38px; 
+    top: 36px; 
+    position: absolute; 
+    background: black;
+}
+
+.Rectangle3 {
+    width: 6.05px; 
+    height: 4.27px; 
+    left: 45.64px; 
+    top: 36px; 
+    position: absolute; 
+    background: black;
+}
+
+.Rectangle8 {
+    width: 1.21px; 
+    height: 3.05px; 
+    left: 17.80px; 
+    top: 8.54px; 
+    position: absolute; 
+    background: black;
+}
+
+.Rectangle9 {
+    width: 1.21px; 
+    height: 3.05px; 
+    left: 17.80px; 
+    top: 25.02px; 
+    position: absolute; 
+    background: black;
+}
+
+.Ellipse1 {
+    width: 19.37px; 
+    height: 19.53px; 
+    left: 23.85px; 
+    top: 8.54px; 
+    position: absolute; 
+    background: black; 
+    border-radius: 9999px; 
+    border: 1px white solid;
+}
+
+.Ellipse2 {
+    width: 15.74px; 
+    height: 15.87px; 
+    left: 25.67px; 
+    top: 10.37px; 
+    position: absolute; 
+    background: white; 
+    border-radius: 9999px;
+}
+
+.Ellipse1 {
+    width: 19.37px; 
+    height: 19.53px; 
+    left: 23.85px; 
+    top: 8.54px; 
+    position: absolute; 
+    background: black; 
+    border-radius: 9999px; 
+    border: 1px white solid;
+}
+
+.Ellipse2 {
+    width: 15.74px; 
+    height: 15.87px; 
+    left: 25.67px; 
+    top: 10.37px; 
+    position: absolute; 
+    background: white; 
+    border-radius: 9999px;
+}
+
+.Ellipse3 {
+    width: 4.84px; 
+    height: 4.88px; 
+    left: 31.12px; 
+    top: 15.86px; 
+    position: absolute; 
+    background: black; 
+    border-radius: 9999px;
+}
+
+.Rectangle10 {
+    width: 1.21px; 
+    height: 13.42px; 
+    left: 32.93px; 
+    top: 11.59px; 
+    position: absolute; 
+    background: black; 
+    border-radius: 15px;
+}
+
+.Rectangle12 {
+    width: 1.22px; 
+    height: 13.32px; 
+    left: 26.88px; 
+    top: 18.92px; 
+    position: absolute; 
+    transform: rotate(-90deg); 
+    transform-origin: 0 0; 
+    background: black; 
+    border-radius: 15px;
+}
+
+.Rectangle13 {
+    width: 1.22px; 
+    height: 13.37px; 
+    left: 28.40px; 
+    top: 13.99px; 
+    position: absolute; 
+    transform: rotate(-45.23deg); 
+    transform-origin: 0 0; 
+    background: black; 
+    border-radius: 15px;
+}
+
+.Rectangle14 {
+    width: 1.22px; 
+    height: 13.37px; 
+    left: 37.82px; 
+    top: 13.13px; 
+    position: absolute; 
+    transform: rotate(45.23deg); 
+    transform-origin: 0 0; 
+    background: black; 
+    border-radius: 15px;
+}
+
+.Labels {
+    width: 840px; 
+    height: 50px; 
+    left: 106px; 
+    top: 15px; 
+    position: absolute;
+}
+
+.ArrowDownUndefined {
+    width: 22px; 
+    height: 18px; 
+    left: 75px; 
+    top: 95px; 
+    position: absolute;
+}
+
+.QrCode {
+    width: 188px; 
+    height: 186px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.223);
+}
+
+.italo-melo {
+    width: 650px; 
+    height: 998px; 
+    left: 800px; 
+    top: 1px; 
+    position: absolute; 
+    background: #e5eafa00; 
+    border-radius: 20px; 
+    border: 0.50px rgba(0, 0, 0, 0) solid;
+}
+
+.Vector29 {
+    width: 849px; 
+    height: 988.50px; 
+    left: 550px; 
+    top: -15px; 
+    position: relative; 
+    background: #e5eafa00; 
+    border-radius: 20px; 
+    border: 0.50px rgba(0, 0, 0, 0) solid;
+}
+
+.GooglePlay {
+    width: 147.20px; 
+    height: 42.52px; 
+    left: 1204px; 
+    top: 320.16px; 
+    position: absolute;
+}
+
+.RedesSociais {
+    width: 232.23px; 
+    height: 23px; 
+    left: 57px; 
+    top: 277px; 
+    position: absolute;
+}
+
+.Crewbank {
+    left: 50px; 
+    top: 51px; 
+    position: absolute; 
+    text-align: center; 
+    color: #F5F5F5; 
+    font-size: 50px; 
+    font-family: Ferro Rosso; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+
+.InformaEs {
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    color: #F5F5F5; 
+    font-size: 20px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    letter-spacing: 1.40px; 
+    word-wrap: break-word;
+}
+
+.RuaGoiS1254Loja1VilaNovaBrasLiaDfBrasilCep00000000 {
+    width: 206px; 
+    left: 0px; 
+    top: 108px; 
+    position: absolute; 
+    color: #F5F5F5; 
+    font-size: 13;
+    font-family: Montserrat; 
+    font-weight: 400; 
+    letter-spacing: 0.91px; 
+    word-wrap: break-word;
+}
+
+.contato_007355000116 {
+    left: 0px; 
+    top: 80px; 
+    position: absolute; 
+    color: #F5F5F5; 
+    font-size: 13px; 
+    font-family: Montserrat; 
+    font-weight: 400; 
+    letter-spacing: 0.91px; 
+    word-wrap: break-word;
+}
+
+.CrewBankSA20232023 {
+    left: 0px; 
+    top: 44px; 
+    position: absolute; 
+    color: #F5F5F5; 
+    font-size: 13px; 
+    font-family: Montserrat; 
+    font-weight: 400; 
+    letter-spacing: 0.91px; 
+    word-wrap: break-word;
+}
+
+.InformaEs {
+    width: 206px; 
+    height: 156px; 
+    left: 1139px; 
+    top: 51px; 
+    position: absolute;
+}
+
+.Contato {
+    width: 206px; 
+    height: 156px; 
+    left: 745px; 
+    top: 51px; 
+    position: absolute;
+}
+
+.CrewbankCrewbankCom {
+    left: 0px; 
+    top: 152px; 
+    position: absolute; 
+    color: #F5F5F5; 
+    font-size: 13px; 
+    font-family: Montserrat; 
+    font-weight: 400; 
+    letter-spacing: 0.91px; 
+    word-wrap: break-word;
+}
+
+.telefone_9876543 {
+    left: 0px; 
+    top: 116px; 
+    position: absolute; 
+    color: #F5F5F5; 
+    font-size: 13px; 
+    font-family: Montserrat; 
+    font-weight: 400; 
+    letter-spacing: 0.91px; 
+    word-wrap: break-word;
+}
+
+.telefone_554798765432 {
+    left: 0px;
+    top: 80px; 
+    position: absolute; 
+    color: #F5F5F5; 
+    font-size: 13px; 
+    font-family: Montserrat; 
+    font-weight: 400; 
+    letter-spacing: 0.91px; 
+    word-wrap: break-word;
+}
+
+.telefone_1234567 {
+    left: 0px; 
+    top: 44px; 
+    position: absolute; 
+    color: #F5F5F5; 
+    font-size: 13px; 
+    font-family: Montserrat; 
+    font-weight: 400; 
+    letter-spacing: 0.91px;
+    word-wrap: break-word;
+}
+
+.Contto {
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    color: #F5F5F5; 
+    font-size: 20px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    letter-spacing: 1.40px; 
+    word-wrap: break-word;
+}
+
+.Vector1 {
+    width: 15.60px; 
+    height: 7.73px; 
+    left: 252.90px; 
+    top: 9.84px; 
+    position: absolute; 
+    background: #112A46;
+}
+
+.Label1 {
+    width: 240px; 
+    height: 49.90px; 
+    padding-top: 11px; 
+    padding-bottom: 10.90px; 
+    padding-left: 44px; 
+    padding-right: 44.40px; 
+    left: 0px; top: 0px; 
+    position: absolute; 
+    background: #E5EAFA; 
+    border-radius: 10px; 
+    overflow: hidden; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex;
+}
+
+.Label2 {
+    width: 300px; 
+    height: 50px; 
+    padding-top: 11px; 
+    padding-bottom: 11px; 
+    padding-left: 19px; 
+    padding-right: 12.50px; 
+    left: 240px; 
+    top: 0px; 
+    position: absolute; 
+    background: #E5EAFA; 
+    border-radius: 10px; 
+    overflow: hidden; 
+    justify-content: flex-end; 
+    align-items: center; 
+    display: inline-flex;
+}
+
+.Group17 {
+    flex: 1 1 0; 
+    align-self: stretch; 
+    position: relative;
+}
+
+.Rectangle18 {
+    width: 307px; 
+    height: 60px; 
+    left: 0px;
+    top: 0px; 
+    position: absolute; 
+    background: #E5EAFA; 
+    border-radius: 50px;
+}
+
+.Vector32{
+    width: 21.50px; 
+    height: 37.62px; 
+    left: 0px; 
+    top: 43px; 
+    position: absolute; 
+    background: linear-gradient(90deg, #891D2E 0%, #891D2E 50%, #B2152C 100%); 
+    border: 2px black solid;
+}
+
+.Vector33 {
+    width: 21.50px; 
+    height: 69.88px; 
+    left: 37.62px; 
+    top: 26.88px; 
+    position: absolute; 
+    background: linear-gradient(90deg, #891D2E 0%, #891D2E 50%, #B2152C 100%); 
+    border: 2px black solid;
+}
+
+.Vector34 {
+    width: 0px; 
+    height: 10.75px; 
+    left: 48.38px; 
+    top: 96.75px; 
+    position: absolute; 
+    border: 2px black solid;
+}
+
+.Vector35 {
+    width: 21.50px; 
+    height: 24.19px; 
+    left: 75.25px; 
+    top: 21.50px; 
+    position: absolute; 
+    background: linear-gradient(90deg, #891D2E 0%, #891D2E 50%, #B2152C 100%); 
+    border: 2px black solid;
+}
+
+.Vector36 {
+    width: 0px; 
+    height: 26.88px; 
+    left: 10.75px; 
+    top: 16.12px; 
+    position: absolute; 
+    border: 2px black solid;
+}
+
+.Vector37 {
+    width: 0px; 
+    height: 34.94px; 
+    left: 86px; 
+    top: 45.69px; 
+    position: absolute; 
+    border: 2px black solid;
+}
+
+.Vector38 {
+    width: 0px; 
+    height: 21.50px; 
+    left: 86px; 
+    top: 0px; 
+    position: absolute; 
+    border: 2px black solid;
+}
+
+.rectangle21 {
+    width: 115.84px; 
+    height: 36px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: linear-gradient(90deg, #891D2E 0%, #891D2E 50%, #B2152C 100%); 
+    border-radius: 50px;
+}
+
+.Login {
+    width: 79.89px; 
+    height: 20px; 
+    left: 17.97px; 
+    top: 8px; 
+    position: absolute; 
+    text-align: center; 
+    color: #E5EAFA; 
+    font-size: 13px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    letter-spacing: 0.91px; 
+    word-wrap: break-word;
+}
+
