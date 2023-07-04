@@ -17,6 +17,19 @@
 </head>
 
 <body>
+  <div class="background-shapes">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 200"> <!-- Adjusted viewBox values -->
+          <defs>
+              <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                  <stop offset="0%" stop-color="#891D2E" />
+                  <stop offset="50%" stop-color="#891D2E" />
+                  <stop offset="100%" stop-color="#B2152C" />
+              </linearGradient>
+          </defs>
+          <polygon id="ciano" fill="#199F8B" points="-55,200 -55,120 155,90 155,200" />
+          <polygon id="bordo" fill="url(#gradient)" points="-55,120 -55,30 155,0 155,90" />
+      </svg>
+  </div>
   <main>
     <div id="emprestimos">
       <div id="foto1">
@@ -35,7 +48,7 @@
           <div class="emprestimo-button">
             <i class="fas fa-credit-card icon" id="cartao"></i>
             <br>
-            Empréstimo Facilitado
+            Crédito Facilitado
           </div>
           <div class="emprestimo-button">
             <i class="fas fa-mobile-alt icon" id="phone"></i>
