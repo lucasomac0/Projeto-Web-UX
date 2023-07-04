@@ -4,14 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Crew Bank</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <header class="header">
-            
+    <header class="header">    
             <svg id="navbar-logo" width="68" height="41" viewBox="0 0 68 41" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g id="Logomarca CS">
                 <g id="Polygon 2">
@@ -39,21 +38,73 @@
                 </g>
             </svg>
             <hr id="separador-header">
-
             <nav class="navbar">
             <h3 class="navbar-options">
                 Para você
-            </h3>
-            
+            </h3>           
             <h3 class="navbar-options">
                 Informações Úteis
-            </h3>
-            
+            </h3>           
             <h3 class="navbar-options">
                 A Crew Safe
             </h3>
-            </nav>
-            
+            </nav>       
     </header>
+
+    <div class="subheader">   
+        <h1 id="h1-sheader">
+            Somos o banco que mais cresce no Brasil!
+        </h1>
+        
+        <h3 id="h3-sheader">
+            Experimente um dos nossos serviços
+        </h3>
+    </div>
+
+    <container id="cards-grid">
+        <section id="card1">
+            <div class="txtc1bold">Transferências</div>
+            <div class="txtc1light">A qualquer hora, em qualquer lugar.</div>
+            <button id="btnc1">
+              <div class="btntxt" ">Experimente</div>
+            </button>
+            <img id="card1img" src="/imgs/card1img.png" />
+          </section>
+
+          <section id="card2">
+            <div class="txtc1bold">Carteira</div>
+            <div id="txtc2light">Acesse sua carteira digital.</div>
+            <button id="btnc2">
+              <div class="btntxt">Acessar</div>
+            </button>
+          </section>   
+          
+         
+         <nav id="card3-4-group">
+          <section id="card3">
+                <button id="btnc3">
+                  <div class="btntxt">Depositar</div>
+                </button>
+                <div id="txtc3bold" >Depósitos</div>
+                <div id="txtc3light">Faça depósitos rápidos e seguros pelo app/site.</div>
+              
+          </section>
+
+          <section id="card4">
+                  <div id="txtc4bold"">Cartão de Crédito</div>
+                  <div id="txtc4light">Aproveite as vantagens de ter um Crew Card!</div>
+                  <button id="btnc4">
+                    <div class="btntxt">Acessar</div>
+                  </button>
+                </div>
+                <img id="card4img""" src="/imgs/card4img.png">   
+                </div>
+              </div>
+          </section>
+        </nav>
+    </container>
+
+
+
 </body>
 </html>
