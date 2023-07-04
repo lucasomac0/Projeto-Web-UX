@@ -52,11 +52,7 @@ body{
 .subheader{
     width: 100vw;
     height: 51.33vh;
-<<<<<<< Updated upstream
-    background-image:url(/Page-Servicos-Lucas/imgs/banco.jpg);
-=======
     background-image:url(../Page-Servicos-Lucas/imgs/banco.jpg);
->>>>>>> Stashed changes
     background-size: 100% 90vh;
     background-repeat: no-repeat;
     background-position: center;
@@ -472,11 +468,7 @@ footer {
 #foto1{
     width: 530px;
     height: 530px;
-<<<<<<< Updated upstream
-    background-image: url(/Page-Servicos-Lucas/imgs/phoneman.jpg);
-=======
     background-image: url(../Page-Servicos-Lucas/imgs/phoneman.jpg);
->>>>>>> Stashed changes
     background-size: contain;
     border-radius: 20px;
     display: flex;
@@ -519,6 +511,7 @@ footer {
 #emprestimos-sub{
     font-size: 20px;
     width: 90%;
+    margin-bottom: 5vh;
 }
 
 .emprestimo-button{
